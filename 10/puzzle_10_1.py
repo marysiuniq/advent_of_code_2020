@@ -24,6 +24,7 @@ DIFF_1 = 0
 DIFF_2 = 0
 DIFF_3 = 0
 JOLTAGE = 0
+
 for i in range(len(INPUT)):
     if JOLTAGE + 1 in INPUT:
         JOLTAGE += 1
