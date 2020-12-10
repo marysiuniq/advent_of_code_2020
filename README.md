@@ -1,2 +1,3 @@
 # advent_of_code_2020
 Solutions to the puzzles from [Advent of Code 2020](https://adventofcode.com/).
+I am learning Python only now so don't laugh at me and my "code". Maybe it will become better in the future...
