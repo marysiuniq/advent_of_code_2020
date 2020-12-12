@@ -6,8 +6,8 @@ Created on Tue Dec  10 06:05:26 2020
 Puzzle 10 part 1 from https://adventofcode.com/2020/day/10
 
 Each of your joltage adapters is rated for a specific output joltage
-(your puzzle input). Any given adapter can take an input 1, 2, or 3 jolts
-lower than its rating and still produce its rated output joltage.
+(your puzzle input). Any given adapter can take an input 1, 2, or 3 jolts lower
+than its rating and still produce its rated output joltage.
 
 Find a chain that uses all of your adapters to connect the charging outlet
 to your device's built-in adapter and count the joltage differences
