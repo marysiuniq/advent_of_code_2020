@@ -1,0 +1,41 @@
+{'soy': ['vlblq', 'mtnh', 'glf', 'mptbpz'],
+'fish': ['cxsvdm', 'rsbxb', 'txdmlzd', 'vlblq'],
+'eggs': ['xbnmzr', 'glf', 'mptbpz'],
+'wheat': ['txdmlzd', 'mptbpz'],
+'dairy': ['cxsvdm', 'mptbpz'],
+'peanuts': ['txdmlzd'],
+'sesame': ['vlblq', 'mptbpz'],
+'nuts': ['xbnmzr', 'vlblq', 'txdmlzd']}
+
+
+{'soy': ['mtnh'],
+'fish': ['rsbxb'],
+'eggs': ['glf', ],
+'wheat': ['mptbpz'],
+'dairy': ['cxsvdm', ],
+'peanuts': ['txdmlzd']
+'sesame': ['vlblq'],
+'nuts': ['xbnmzr']}
+
+cxsvdm,glf,rsbxb,xbnmzr,txdmlzd,vlblq,mtnh,mptbpz
+dairy,eggs,fish, nuts, peanuts, sesame, soy, wheat 
+
+{'shellfish': ['xxscc', 'gzxnc', 'gbcjqbm'],
+'peanuts': ['trnnvn', 'gbcjqbm', 'vvqj'],
+'nuts': ['nckqzsg', 'xxscc', 'gzxnc'],
+'wheat': ['nckqzsg'],
+'fish': ['nckqzsg', 'xxscc', 'mjmqst'],
+'eggs': ['nckqzsg', 'xxscc'],
+'soy': ['nckqzsg', 'gzxnc', 'dllbjr'],
+'sesame': ['nckqzsg', 'trnnvn', 'gzxnc', 'gbcjqbm']}
+
+
+
+{'shellfish': ['gbcjqbm'],
+'peanuts': ['vvqj'],
+'nuts': ['gzxnc'],
+'wheat': ['nckqzsg'],
+'fish': ['mjmqst'],
+'eggs': ['xxscc'],
+'soy': ['dllbjr'],
+'sesame': ['trnnvn']}
